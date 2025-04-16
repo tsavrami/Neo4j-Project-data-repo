@@ -1,0 +1,9 @@
+Pokémon Data: Cristobal Mitchell
+https://www.kaggle.com/datasets/cristobalmitchell/pokedex
+
+Trainer Data: User @sb879 at Smogon forums https://www.smogon.com/forums/members/sb879.6028/
+https://www.smogon.com/forums/threads/pokemon-platinum-trainer-data.3665884/
+
+For misc. information (things I forgot), also image sprites: https://www.serebii.net/
+
+Uncredited are myself.
